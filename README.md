@@ -1,9 +1,7 @@
 Write in Terminal
 
-#TERMINAL
+cd "path of folder"
 
-cd <path of folder>
-
-#TERMINAL
+#then
 
 npm index.js
